@@ -1,7 +1,9 @@
 1. Decide which business to order pizza from.
 2. Decide which of the business' locations to order from.
-3. Decide which kinds of pizza to order.
-4. Decide the quantity of each kind of pizza to order.
-5. Decide how the pizzas will be recieved (delivery or pickup)
-6. Decide how the pizzas will be paid for.
-7. Submit a request to the business location based on information from steps 1-6.
+3. Pull up the menu.
+4. Decide which type of pizza to order from the menu.
+5. Customize pizzas by adding or removing toppings from your desired pizza on the menu.
+5. Decide the quantity of each previously selected type of pizza to order.
+6. Decide how the pizzas will be recieved (delivery or pickup)
+7. Decide how the pizzas will be paid for.
+8. Submit a request to the business location based on information from steps 1-6.
