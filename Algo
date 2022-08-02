@@ -7,14 +7,21 @@ Pull up the menu.
 Decide which type of pizza to order from the menu.
     Determine pizza size
     Determine pizza variety (from the menu)
-Customize pizzas (if desired)
-    add toppings
-    remove toppings
-    change sauce type
-    change crust type
+    Customize pizzas (if desired)
+        add toppings
+        remove toppings
+        change sauce type
+        change crust type
 Decide the quantity of each previously selected type of pizza to order.
-Decide how the pizzas will be recieved (delivery or pickup)
+Decide how the pizzas will be recieved
+    delivery
+    pickup
 Decide how the pizzas will be paid for.
-Submit a request to the business location
-Await delivery OR travel to pickup location (dependant on step 7)
+    cash
+    credit/debit
+Submit a request to the business location for the pizzas
+Await delivery OR travel to pickup location
 Accept Pizza(s)
+If paying cash, submit payment
+Tip (if appliccable)
+Enjoy!
