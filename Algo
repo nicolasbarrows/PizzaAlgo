@@ -4,7 +4,7 @@ Decide how you will place the order.
 Pull up the menu.
 Decide which type of pizza to order from the menu.
     Determine pizza size
-    Determine pizza variety (from the menu)
+    Determine pizza variety/type
     Customize pizzas (if desired)
         add toppings
         remove toppings
@@ -18,7 +18,10 @@ Decide how the pizzas will be paid for.
     cash
     credit/debit
 Submit a request to the business location for the pizzas
+    phone
+    online
+    in-person
 Await delivery OR travel to pickup location
-Accept Pizza(s)
 If paying cash, submit payment
+Accept Pizza(s)
 Tip (if appliccable)
