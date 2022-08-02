@@ -1,0 +1,10 @@
+Pepperoni
+Mushroom
+Extra cheese
+Sausage
+Onion
+Black olives
+Green pepper
+Fresh garlic
+Tomato
+Fresh basil
